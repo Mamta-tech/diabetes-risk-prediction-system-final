@@ -1,0 +1,10 @@
+PROJECT TITLE: Diabetes Risk Prediction System
+PROJECT TYPE: Group Project
+STUDENT 1: Mamta | Roll No. 24011041049
+STUDENT 2: Kirti | Roll No. 24011041041
+CLASS: BCA 5th Semester
+COLLEGE: Hindu College of Engineering, Sonipat
+TEMPORARY GITHUB OWNER: harshbalan
+SUGGESTED REPOSITORY: diabetes-risk-prediction-system
+
+Render deployment: model training runs during the build step; app binds to the PORT environment variable.
